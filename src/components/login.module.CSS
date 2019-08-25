@@ -1,0 +1,45 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+    background: grey;
+}
+h1{
+    font-family: 'Denk One';
+    font-style: 'bold';
+    font-size: 50px;
+}
+
+/* .outerbox{
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform : translate(-50%,-50%);
+    text-align: center;
+    border-radius: 20px;
+}
+.outerbox h1{
+    margin: 20px;  
+    background: white;
+}
+.textbox{
+    background: white;
+}
+.textbox input{
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px 1px;
+    height: 40px;
+    background: white;
+    width: 400px;
+    margin:20px;
+    padding:10px 0px;
+}
+.button_login{
+    border-radius: 10px;
+    height: 30px;
+    margin : 20px;
+    width : 200px;
+    padding : 10px;
+    display: inline-block;
+} */ 
